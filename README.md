@@ -10,5 +10,8 @@
 
 usefull commands : flutter packages pub run build_runner build --delete-conflicting-outputs
 
+## Screenshots
 
+![image1](https://github.com/krishnavamshi3/QuotesStore/blob/master/screenshots/startup.jpg?raw=true)
 
+![alt text](https://github.com/krishnavamshi3/QuotesStore/blob/master/screenshots/quoteslist.jpg?raw=true)
