@@ -1,0 +1,1 @@
+const String DATA_URL = "https://game-of-thrones-quotes.herokuapp.com/v1/random/";
